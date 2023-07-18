@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [To do list](https://github.com/mryeminthu/To-Do-list)
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **JavaScript and React**
 
-- 💬 Ask me about **Javascript and React**
+- 💬 Ask me about **JavaScript and React**
 
 - 📫 How to reach me **dhammaarchive@hotmail.com**
 
